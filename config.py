@@ -1,0 +1,4 @@
+SPOTIFY_CLIENT_ID = 'd88546d226eb41b0874f40b883947f83'
+SPOTIFY_CLIENT_SECRET = 'bead2cbf5f4b486b8ca396ba80e07f49'
+SPOTIFY_REDIRECT_URI = 'http://localhost/callback'
+SPOTIFY_USER_NAME = '31cp54jmzxrigbpav7ht7ut4fgpu'
