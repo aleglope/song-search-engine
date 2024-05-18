@@ -6,7 +6,7 @@ Este programa permite generar una playlist en Spotify con las canciones del Bill
 
 - Python 3.x
 - Paquetes de Python: `requests`, `beautifulsoup4`, `spotipy`
-- Credenciales de la API de Spotify ([ver cómo obtenerlas](##notas-adicionales))
+- Credenciales de la API de Spotify ([ver cómo obtenerlas](##Notas-Adicionales))
   
 ## Instalación
 
