@@ -13,7 +13,7 @@ Este programa permite generar una playlist en Spotify con las canciones del Bill
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/billboard-to-spotify.git
+   git clone https://github.com/tu-usuario/Song-Search-Engine.git
    cd Song-Search-Engine
    ```
 
