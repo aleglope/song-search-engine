@@ -14,7 +14,7 @@ Este programa permite generar una playlist en Spotify con las canciones del Bill
 
    ```bash
    git clone https://github.com/tu-usuario/billboard-to-spotify.git
-   cd billboard-to-spotify
+   cd Song-Search-Engine
    ```
 
 2. **Instala las dependencias:**
